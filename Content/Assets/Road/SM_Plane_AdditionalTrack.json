@@ -1,0 +1,30 @@
+{
+    "comment": {
+        "1/3": "This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons",
+        "2/3": "It used for import into Unreal Engine all the assets of type StaticMesh, SkeletalMesh, Animation, Pose, Camera, [...]",
+        "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
+    },
+    "info": {
+        "date_time_str": "2025-04-17 13:00:54",
+        "timestamp": 1744884054,
+        "blender_file": "C:\\WORKWORK\\Projects\\BlenderProj\\CityAssets\\road.blend",
+        "addon_version": "Version 4.3.12",
+        "addon_path": "C:\\Users\\Frosty\\AppData\\Roaming\\Blender Foundation\\Blender\\4.4\\extensions\\user_default\\unrealengine_assets_exporter",
+        "import_modiule_path": "C:\\Users\\Frosty\\AppData\\Roaming\\Blender Foundation\\Blender\\4.4\\extensions\\user_default\\unrealengine_assets_exporter\\bfu_import_module"
+    },
+    "DefaultSettings": {},
+    "Sockets": null,
+    "LevelOfDetail": {},
+    "vertex_color_import_option": "IGNORE",
+    "vertex_override_color": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "import_materials": true,
+    "import_textures": false,
+    "flip_normal_map_green_channel": false,
+    "reorder_material_to_fbx_order": true,
+    "material_search_location": "Local",
+    "preview_import_path": "SM_Plane.fbx"
+}
